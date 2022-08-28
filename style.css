@@ -3,7 +3,9 @@ body {
 }
 h2 {
     color: blueviolet;
+    font-style: italic;
 }
 h1 {
     color: blue;
+    font-style: italic;
 }
